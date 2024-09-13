@@ -53,7 +53,7 @@ hr {
 }
 
 img {
-	width: calc(100% + 60px);
+	width: calc(100% + 60px); /* doen met vw unit! */
 	margin: -30px 0 0 -30px;
 
 	@media (min-width: 768px) {
